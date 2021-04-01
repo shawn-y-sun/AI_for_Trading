@@ -1,0 +1,3 @@
+SQLAlchemy==1.3.22
+zipline===1.3.0
+graphviz==0.9
